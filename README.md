@@ -1,6 +1,6 @@
 # pdf-to-csv-to-eda
 A repository containing complete EDA (exploratory data analysis) from Scratch (raw data, such as pdf and images))
-![Screenshot (137)](https://github.com/AbuManiyar/pdf-to-csv-to-eda/assets/138297050/97d30d8a-928e-44dd-8ce7-bc19613fcd1f)
+![Unstructured ----- Structured (1)](https://github.com/AbuManiyar/pdf-to-csv-to-eda/assets/138297050/368df35a-15c7-4e28-b38f-a6b3045c747f)
 
 # requirements
 pdfquery 
